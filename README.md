@@ -58,14 +58,12 @@ To get this project up and running on your local machine, follow these steps:
 
 ## Contact
 If you have any questions or comments about the my CI/CD project, please contact:
-Natasha - [email@example.com](mailto:email@example.com)
+Natasha - [kambhamsaanjeeva94@gmail.com](mailto:email@example.com)
 
-- [LinkedIn](https://www.linkedin.com/in/natasha-ong/)
+- [LinkedIn](https://www.linkedin.com/in/sanjeeva26/)
 
 <br>
 
 ## Conclusion
 Thank you for exploring this project! I'll continue to build this pipeline and apply my learnings to future projects.
-
-A big shoutout to **[NextWork](https://learn.nextwork.org/app)** for their project guide and support. [You can get started with this DevOps series project too by clicking here.](https://learn.nextwork.org/projects/aws-devops-vscode?track=high)
 
